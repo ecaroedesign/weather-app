@@ -52,7 +52,7 @@ header input:focus {
 
 input::placeholder {
     font-family: 'Prata', serif;
-    color: white; 
+    color: #6a6a6a; 
 }
 
 input,select, textarea {
